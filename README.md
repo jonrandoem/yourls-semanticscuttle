@@ -19,12 +19,7 @@ Installation
 3. Edit your config.php file (located at user/config.php in your Yourls installation)
 4. Define the URL of your Semantic Scuttle installation by inserting the following line at the end of your config.php file:
 ```
-/*
- ** Personal settings would go after here.
- */
-
 define('SEMANTICSCUTTLE_URL', 'https://my-semantic-scuttle.com');
-
 ```
 5. Adapt the URL "https://my-semantic-scuttle.com" to your Semantic Scuttle installation's URL (No trailing slash !!!), and save changes to config.php
 6. Activate the plugin in the admin area
