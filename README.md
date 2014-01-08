@@ -17,16 +17,13 @@ Installation
 1. Unzip the plugin. You get a "yourls-semanticscuttle" folder
 2. Upload this folder into the user/plugins folder of your Yourls installation
 3. Edit your config.php file (located at user/config.php in your Yourls installation)
-4. Define the URL of your Semantic Scuttle installation by inserting the following line at the end of your config.php file:
-
+4. Define the URL of your Semantic Scuttle installation by inserting the following line at the end of your config.php file. Adapt the URL "https://my-semantic-scuttle.com" to your Semantic Scuttle installation's URL (No trailing slash !!!), and save changes to config.php
 
 ```
 define('SEMANTICSCUTTLE_URL', 'https://my-semantic-scuttle.com');
 ```
 
-
-5. Adapt the URL "https://my-semantic-scuttle.com" to your Semantic Scuttle installation's URL (No trailing slash !!!), and save changes to config.php
-6. Activate the plugin in the admin area
+Finally, activate the plugin in the admin area
 
 
 
