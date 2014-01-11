@@ -8,6 +8,8 @@ Author: JonRandoem
 Author URI: https://github.com/jonrandoem/
 **/
 
+// No direct call
+if( !defined( 'YOURLS_ABSPATH' ) ) die();
 
 yourls_add_action( 'share_links', 'jr_yourls_sscuttle' );
 

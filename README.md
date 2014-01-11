@@ -4,8 +4,8 @@ yourls-semanticscuttle
 About
 ------------
 
-yourls-semanticscuttle is a plugin for YOURLS. The plugin adds a new share link into the Quick Share box (available for each URL shown in the Yourls admin area).
-The added link allows the sharing of the URL to a Semantic Scuttle installation.
+yourls-semanticscuttle is a plugin for [YOURLS](http://yourls.org/). The plugin adds a new share link into the Quick Share box (available for each URL shown in the Yourls admin area).
+The added link allows the sharing of the URL to a [Semantic Scuttle](http://semanticscuttle.sourceforge.net/) installation.
 
 Obviously, you need a valid Yourls installation and a valid Semantic Scuttle installation.
 
